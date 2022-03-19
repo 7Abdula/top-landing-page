@@ -1,0 +1,34 @@
+.content {
+    width: 1280px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.content-title {
+    padding: 48px;
+    color: #1F2937;
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    gap: 56px;
+}
+
+
+.card {
+    width: 160px;
+    text-align: center;
+    color: #595d61;;
+}
+
+.card-border {
+    width: 160px;
+    height: 160px;
+    border: 4px solid #3882F6;
+    border-radius: 16px;
+    margin-bottom: 8px;
+}

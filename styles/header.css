@@ -1,0 +1,35 @@
+.header {
+    color: #fff;
+    display: flex;
+    height: 80px;
+    align-items: center;
+    background-color: #1F2937;
+}
+
+.nav-content {
+    width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 700;
+    color: #F9FAF8;
+    padding: 4px;
+    cursor: pointer;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    display: flex;
+    gap: 16px;
+}
+
+a {
+    color: #E5E7EB;
+    text-decoration: none;
+}
